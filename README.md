@@ -94,6 +94,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/Viknesh006)**
+**⭐ From [Viknesh T](https://github.com/Viknesh006)**
 
 </div>
