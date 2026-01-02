@@ -17,7 +17,7 @@
 <div align="center">
 
  **Passionate learner and developer** who loves building **full-stack web apps**, exploring , and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, while also sharpening my **C++, Python, and Java**  for problem solving and algorithmic thinking.
+ Currently diving deep into **JavaScript, React, while also sharpening my **, Python, and Java**  for problem solving and algorithmic thinking.
 
 </div>  
 
@@ -29,7 +29,6 @@
     <th align="left">Programming Languages</th>
     <td>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black" />
     </td>
